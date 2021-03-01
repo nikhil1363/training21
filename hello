@@ -3,4 +3,5 @@ init(
 "fmt")
 func main(){
 fmt.Println("Hello world")
+fmt.Println("training")
 }
