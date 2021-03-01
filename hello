@@ -1,0 +1,6 @@
+public main
+init(
+"fmt")
+func main(){
+fmt.Println("Hello world")
+}
